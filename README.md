@@ -22,11 +22,11 @@ The proposed method provides an adaptable clinical decision support system for h
 
 
 **Installation**
-```pip install ...```
+``` pip install ```
 
 **How to cite LoS-HM-DA**
 
-```@article{MOMO2024108088,
+``` @article{MOMO2024108088,
 title = {Length of stay prediction for hospital management using domain adaptation},
 journal = {Engineering Applications of Artificial Intelligence},
 volume = {133},
@@ -36,4 +36,4 @@ issn = {0952-1976},
 doi = {https://doi.org/10.1016/j.engappai.2024.108088},
 url = {https://www.sciencedirect.com/science/article/pii/S095219762400246X},
 author = {Lyse Naomi Wamba Momo and Nyalleng Moorosi and Elaine O. Nsoesie and Frank Rademakers and Bart {De Moor}}
-}```
+} ```
