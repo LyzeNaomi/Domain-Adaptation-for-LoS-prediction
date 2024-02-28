@@ -22,12 +22,10 @@ The proposed method provides an adaptable clinical decision support system for h
 
 
 **Installation**
-```
-pip install ... ```
+```pip install ...```
 
 **How to cite LoS-HM-DA**
-```
-@article{MOMO2024108088,
+```@article{MOMO2024108088,
 title = {Length of stay prediction for hospital management using domain adaptation},
 journal = {Engineering Applications of Artificial Intelligence},
 volume = {133},
