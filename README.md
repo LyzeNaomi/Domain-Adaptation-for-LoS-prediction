@@ -1,2 +1,2 @@
-# LoS---HM--DA
-This project is about Length of Stay prediction for Hospital Management using Domain Adaptation
+# LoS-HM-DA
+Length of Stay prediction for Hospital Management using Domain Adaptation
