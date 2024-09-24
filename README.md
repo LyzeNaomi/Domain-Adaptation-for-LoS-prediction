@@ -1,5 +1,5 @@
 # LoS-HM-DA
-**Length of Stay prediction for Hospital Management using Domain Adaptation**
+**Length of Stay prediction for Hospital Management using Domain Adaptation across heterogeneous feature spaces**
 
 Email: naomiewamba@ymail.com
 
